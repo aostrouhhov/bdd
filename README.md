@@ -18,5 +18,5 @@ $ mvn test -fn
 
 Сгенерировать отчёт в Allure:
 ```
-$ allure serve .\target\surefire-reports\
+$ allure serve ./target/surefire-reports/
 ```
